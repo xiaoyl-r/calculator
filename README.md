@@ -25,7 +25,7 @@
 
 此外，输入错误的表达式会报错。  
 
-![avatar](https://imgtu.com/i/5PxoOf)
+[![5iSfMt.jpg](https://z3.ax1x.com/2021/10/08/5iSfMt.jpg)](https://imgtu.com/i/5iSfMt)
 
 ### 三角函数计算
 
@@ -35,7 +35,7 @@
 
 用户必须自己手动添加右括号,否则会报错，在结果显示栏显示“error！”  
 
-![avatar](https://imgtu.com/i/5PzoC9)
+[![5iSgGd.jpg](https://z3.ax1x.com/2021/10/08/5iSgGd.jpg)](https://imgtu.com/i/5iSgGd)
 
 ### 反应速度测试
 
@@ -51,7 +51,7 @@
 
 超过400ms，显示反应时间和“你比正常人稍稍慢了点”。  
 
-![avatar](https://imgtu.com/i/5PzT3R)
+[![5iSsaD.jpg](https://z3.ax1x.com/2021/10/08/5iSsaD.jpg)](https://imgtu.com/i/5iSsaD)
 
 点击右下角“开始”按钮，开始反应速度测试。  
 
@@ -73,7 +73,7 @@
 
 的HolidayItem List作为数据源。
 
-![avatar](https://imgtu.com/i/5PzLDK)
+[![5iSBqK.jpg](https://z3.ax1x.com/2021/10/08/5iSBqK.jpg)](https://imgtu.com/i/5iSBqK)
 
 ### 图形计算器
 包含六个基础图形（圆形、球形、平行四边形、圆环、三角形、椭圆）的函数计算，比如弧长、面积、体积、周长等，便于用户计算一些简单  
@@ -86,7 +86,7 @@
 
 对于计算过程，首先从EditText获取用户输入的数据，然后转换为Integer，计算后再转换为String显示。
 
-![avatar](https://imgtu.com/i/5PzjED)
+[![5iSGaF.jpg](https://z3.ax1x.com/2021/10/08/5iSGaF.jpg)](https://imgtu.com/i/5iSGaF)
 
 ### 刷锻完成时间预测
 根据用户输入的每周锻炼情况，结合目前已经完成的公里数，计算出预计的80km刷锻完成时间。由此，用户可以用这一数据  
@@ -97,7 +97,7 @@
 
 基本原理与日期的计算差不多。这里同样加入了空值判断，但与图形计算稍有不同，需考虑实际情况，比如没有游泳计划等等。  
 
-![avatar](https://imgtu.com/i/5PzvUe)
+[![5iSn8s.jpg](https://z3.ax1x.com/2021/10/08/5iSn8s.jpg)](https://imgtu.com/i/5iSn8s)
 
 ### BMI计算
 
@@ -105,5 +105,5 @@
 
 实现方法：根据公式体重/身高^2，考虑到用户习惯于输入厘米制，因此还加入了一个单位转换。
 
-![avatar](https://imgtu.com/i/5iSSCd)
+[![5iSSCd.jpg](https://z3.ax1x.com/2021/10/08/5iSSCd.jpg)](https://imgtu.com/i/5iSSCd)
 
