@@ -25,7 +25,7 @@
 
 此外，输入错误的表达式会报错。  
 
-[![5iSfMt.jpg](https://z3.ax1x.com/2021/10/08/5iSfMt.jpg)](https://imgtu.com/i/5iSfMt)
+[![5ipSdU.jpg](https://z3.ax1x.com/2021/10/08/5ipSdU.jpg)](https://imgtu.com/i/5ipSdU)
 
 ### 三角函数计算
 
@@ -35,7 +35,7 @@
 
 用户必须自己手动添加右括号,否则会报错，在结果显示栏显示“error！”  
 
-[![5iSgGd.jpg](https://z3.ax1x.com/2021/10/08/5iSgGd.jpg)](https://imgtu.com/i/5iSgGd)
+[![5ipPJJ.jpg](https://z3.ax1x.com/2021/10/08/5ipPJJ.jpg)](https://imgtu.com/i/5ipPJJ)
 
 ### 反应速度测试
 
@@ -107,3 +107,6 @@
 
 [![5iSSCd.jpg](https://z3.ax1x.com/2021/10/08/5iSSCd.jpg)](https://imgtu.com/i/5iSSCd)
 
+## App下载方式
+
+可直接将apk文件传到安卓手机上下载
